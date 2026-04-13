@@ -20,4 +20,4 @@ The app fetches prayer times from api.aladhan.com and Quran text/audio from api.
 This app does not knowingly collect information from children under 13.
 
 ## Contact
-If you have questions about this privacy policy, contact us at: [your-email@example.com]
+If you have questions about this privacy policy, contact us at: [usmc.sandhu@gmail.com]
