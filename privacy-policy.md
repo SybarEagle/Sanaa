@@ -1,9 +1,9 @@
-# Privacy Policy for Sanaah
+# Privacy Policy for Muslim Lite
 
 Last updated: April 13, 2025
 
 ## Information We Collect
-Sanaah collects your device location solely to calculate accurate prayer times for your area. Location data is used on-device only and is never stored on our servers or shared with third parties.
+Muslim Lite collects your device location solely to calculate accurate prayer times for your area. Location data is used on-device only and is never stored on our servers or shared with third parties.
 
 ## How We Use Your Information
 - **Location**: To calculate prayer times and Qibla direction for your current position
