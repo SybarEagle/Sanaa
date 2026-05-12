@@ -1,6 +1,6 @@
 # Muslim Lite — Islamic Lifestyle App
 
-A full-featured Islamic companion app built with React and Capacitor, available on iOS and Android. Sanaah provides GPS-based prayer times, a full Quran reader, Qibla compass, automatic Azaan playback, and a suite of daily Islamic tools — all in one place.
+A full-featured Islamic companion app built with React and Capacitor, available on iOS and Android. Muslim Lite provides GPS-based prayer times, a full Quran reader, Qibla compass, automatic Azaan playback, and a suite of daily Islamic tools — all in one place.
 
 ---
 
@@ -124,7 +124,7 @@ The full Azaan plays at prayer time even when the screen is locked. This works t
 
 ## App Store
 
-- **Bundle ID:** `com.sanaah.app`
+- **Bundle ID:** `com.muslimlite.app`
 - **Platform:** iOS 15+, Android
 - **Developer:** Sybar Systems LLC
 - **Category:** Reference / Lifestyle
