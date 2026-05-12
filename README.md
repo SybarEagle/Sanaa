@@ -1,4 +1,4 @@
-# Sanaah — Islamic Lifestyle App
+# Muslim Lite — Islamic Lifestyle App
 
 A full-featured Islamic companion app built with React and Capacitor, available on iOS and Android. Sanaah provides GPS-based prayer times, a full Quran reader, Qibla compass, automatic Azaan playback, and a suite of daily Islamic tools — all in one place.
 
